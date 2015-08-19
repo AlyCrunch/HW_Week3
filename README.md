@@ -1,5 +1,5 @@
 # M101N: MongoDB for .NET Developers - Week 3
-## HOMEWORK: HOMEWORK 3.2: MAKING YOUR BLOG ACCEPT POSTS
+## HOMEWORK 3.2: MAKING YOUR BLOG ACCEPT POSTS
 
 In this homework you will be enhancing the blog project to insert entries into the posts collection. After this, the blog will work. It will allow you to add blog posts with a title, content, and tags and have it be added to the posts collection properly.
 
